@@ -3,8 +3,6 @@
 
 # # Test functions for single-objective optimization
 
-# In[1]:
-
 import matplotlib.pyplot as plt
 from numpy import *
 from pylab import *
